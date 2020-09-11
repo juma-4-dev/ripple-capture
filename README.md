@@ -79,3 +79,8 @@
 - Max time (s): 9
 - Average time (s): 4.75
 ```
+### Output folder
+
+* record.data, flat file which contains capture's records
+* script.p, Gnuplot config file
+* plot.png, the generated plot in PNG format
